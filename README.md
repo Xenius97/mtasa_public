@@ -9,3 +9,12 @@ GTA2 Downtown map
 
 # exportlist
 List all exports in a simple gui
+
+# lista
+Object counter / debugger
+
+# vehs
+Spawn all vehicles to dead airport
+
+# skins
+Spawn all skins
