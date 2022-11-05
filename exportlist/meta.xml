@@ -1,0 +1,5 @@
+<meta>
+	<info author="Xenius" version="0.1" type="script" name="Export List" />
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>
